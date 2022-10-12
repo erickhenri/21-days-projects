@@ -1,12 +1,14 @@
-import { HelloWord } from "./projects/day2/HelloWord";
+
+import { Router } from './Router'
+
 import './styles/global.css'
 
 export function App() {
 
-  return (
-    <div className="App">
-      <HelloWord />
-    </div>
-  )
+    return (
+        <div className="App">
+            <Router />
+        </div>
+    )
 }
 

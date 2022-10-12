@@ -1,0 +1,38 @@
+.Home {
+    background-color: #2b2d42;
+    height: 100vh;
+}
+
+.Home header {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    box-shadow: 0px 3px 3px #0004;
+
+    background-color: #8367c7;
+    color: white;
+
+    margin-bottom: 20px;
+}
+
+.Home .projects {
+    padding-inline: 30px;
+}
+
+.Home .projects a {
+    display: block;
+    width: 200px;
+
+    transition: all ease 0.3s;
+}
+
+.Home .projects a:hover {
+    transform: scale(1.05);
+}
+
+.Home .projects a img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 4px #0004;
+
+}
