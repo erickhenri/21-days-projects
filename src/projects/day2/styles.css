@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500;700;800&family=Roboto:ital,wght@0,300;0,500;0,700;1,400&display=swap');
+
+.day1 {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('./assets/space.jpg');
+}
+
+.day1 .earth {
+    height: 60vh;
+}
+
+.day1 .ovniArea {
+    position: absolute;
+    height:95vh;
+    animation: rotateEarth 5s infinite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.day1 .ovni {
+    width: 100px;
+    z-index: 1;
+}
+
+.day1 .helloWord {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    margin-top: -40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: url("./assets/light.png") no-repeat;
+    background-size: contain;
+}
+
+.day1 .helloWord  h1{
+    position: absolute;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+}
+
+@keyframes rotateEarth {
+    to {
+        transform: rotate(0);
+    }
+    from {
+        transform: rotate(360deg);
+    }
+}
+
