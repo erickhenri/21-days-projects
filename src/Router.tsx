@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { Home } from "./Pages/Home/Index";
+import { Home } from "./Pages/Home/index";
 import { HelloWord } from "./projects/day2/HelloWord";
 
 export function Router() {
