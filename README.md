@@ -1,4 +1,4 @@
-<h1 align="center">dia 21 Projetos em 21 dias</h1>
+<h1 align="center">21 Projetos em 21 dias</h1>
 
 ## 📋 Sobre
 
