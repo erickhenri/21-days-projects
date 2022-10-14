@@ -47,7 +47,9 @@ O objetivo é escrever 21 projetos em 21 dias, com cada projeto explorando uma f
 
 - Criar um Hello World customizado com fontes, cores e imagens
 
-<a href="#">Link do post no Linkedin</a>
+<a href="https://www.linkedin.com/posts/%C3%A9rick-henrique-26a87b1b4_vite-react-ts-activity-6986493706266656770-raVR?utm_source=share&utm_medium=member_desktop">
+    Link do post no Linkedin
+</a>
 
 <a href="https://21-days-projects-jiqv.vercel.app/HelloWord">Link do site</a>
 
