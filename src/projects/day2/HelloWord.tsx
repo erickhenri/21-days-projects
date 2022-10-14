@@ -9,7 +9,6 @@ export function HelloWord() {
             <div className="ovniArea">
                 <img src={Ovni} alt="" className="ovni" />
                 <div className="helloWord">
- 
                     <h1>
                         Hello word
                     </h1>

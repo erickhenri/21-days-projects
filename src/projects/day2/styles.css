@@ -9,6 +9,7 @@
     align-items: center;
     justify-content: center;
     background-image: url('./assets/space.jpg');
+    overflow: hidden;
 }
 
 .day1 .earth {
@@ -59,3 +60,16 @@
     }
 }
 
+@media (max-width: 600px) {
+    .day1 .earth {
+        height: auto;
+        width: 65vw;
+    }
+
+    .day1 .ovni {
+        width: 70px;
+    }
+    .day1 .ovniArea {
+        height: 95vw;
+    }
+}

@@ -4,11 +4,19 @@
 
 O objetivo é escrever 21 projetos em 21 dias, com cada projeto explorando uma funcionalidade nova em html ou css, com a finalinade de refinar minhas habilidades e criatividade.
 
+<img src="./public/sitePrint.png">
+
+<h2 align="center">
+    <a>Acesse o site</a>
+</h2>
+
 ---
 
 # 💻 Tecnologias ultilizadas
-- HTML
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - CSS
+- [ReactRouter](https://reactrouter.com/en/main)
 
 <br>
 
@@ -39,6 +47,10 @@ O objetivo é escrever 21 projetos em 21 dias, com cada projeto explorando uma f
 
 - Criar um Hello World customizado com fontes, cores e imagens
 
+<a href="#">Link do post no Linkedin</a>
+
+<a href="https://21-days-projects-jiqv.vercel.app/HelloWord">Link do site</a>
+
 <br>
 
---
+---
