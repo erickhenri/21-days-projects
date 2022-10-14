@@ -7,7 +7,7 @@ O objetivo é escrever 21 projetos em 21 dias, com cada projeto explorando uma f
 <img src="./public/sitePrint.png">
 
 <h2 align="center">
-    <a href="https://21-days-projects-jiqv.vercel.app/">Acesse o site</a>
+    <a target="_blank" href="https://21-days-projects-jiqv.vercel.app/">Acesse o site</a>
 </h2>
 
 ---
